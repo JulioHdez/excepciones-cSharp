@@ -1,0 +1,7 @@
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.AssemblyReference.cache
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe.config
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.pdb
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.exe
+C:\Users\julal\Documents\GitHub\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.pdb
